@@ -1,0 +1,2 @@
+Para rodar este código é necessário ter o Node JS instalado na sua máquina,
+com todas as dependencias instaladas (npm install) na pasta do projeto
